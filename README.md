@@ -70,13 +70,13 @@
 ## 📸 실행 화면
 
 ### 메인 페이지
-<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/b39b7a1f-d5b1-4800-9caf-6001dfb21523" />
+<img width="1440" height="686" alt="Image" src="https://github.com/user-attachments/assets/1a33851b-4e5e-479e-8957-f085df283f4b" />
 
 ### 텍스트 입력
-<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/95bf70f2-4755-485c-a41d-0d801abc747f" />
+<img width="1440" height="686" alt="Image" src="https://github.com/user-attachments/assets/67f586c4-6c5c-4da4-8b76-40f3af85e947" />
 
 ### 감성 클래스 출력
-<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/31993077-9e43-468d-a774-e01d7ab9270f" />
+<img width="1440" height="689" alt="Image" src="https://github.com/user-attachments/assets/30449e90-4d41-4894-9857-35b45d61eb19" />
 
 ### 감정 기록 보기
-<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/a5a19049-ce2b-4f7c-b32c-2f019b1c7c6a" />
+<img width="1440" height="687" alt="Image" src="https://github.com/user-attachments/assets/b8ccdc25-3aba-4181-bc29-54297deb43c8" />
